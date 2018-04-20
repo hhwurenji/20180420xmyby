@@ -34,7 +34,7 @@
   <data name="zh_togglebutton4firsttooltip"><![CDATA[隐藏控制]]></data>
   <data name="zh_togglebutton4secondtooltip"><![CDATA[显示控制]]></data>
   <data name="zh_button1tooltip"><![CDATA[企业名片]]></data>
-  <data name="zh_button1onclick117292websiteViewer|websiteViewer|toggle_websitewebsite_url"><![CDATA[./xmybydata/xtras/vcard_hh.html]]></data>
+  <data name="zh_button1onclick117292websiteViewer|websiteViewer|toggle_websitewebsite_url"><![CDATA[./XMYBYdata/xtras/vcard_hh.html]]></data>
   <data name="zh_button1onclick117292websiteViewer|websiteViewer|toggle_websitewebsite_title"><![CDATA[联系方式]]></data>
   <data name="zh_webvrbuttontooltip"><![CDATA[VR]]></data>
   <data name="zh_websiteViewerfullscreen_text"><![CDATA[Fullscreen mode]]></data>
